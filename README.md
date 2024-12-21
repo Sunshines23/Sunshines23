@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @Sunshines23
-- 👀 I’m interested in reading, listening to music and upskilling myself 
-- 🌱 I’m currently learning SQL
+- 👋 Hi, I’m Surabhi
+- 👀 I enjoy reading and listening to music in my leisure time
+- 🌱 I’m currently learning Power BI
+- I work as an analyst, helping executive take data-driven decisions
+  
 
 
 <!---
-Sunshines23/Sunshines23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
