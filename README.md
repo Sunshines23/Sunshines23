@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Surabhi
 - 👀 I enjoy reading and listening to music in my leisure time
 - 🌱 I’m currently learning Power BI
-- I work as an analyst, helping executive take data-driven decisions
+- I work as an analyst, helping executives take data-driven decisions
   
 
 
